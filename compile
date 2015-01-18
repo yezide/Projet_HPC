@@ -1,0 +1,5 @@
+gcc -O1 experience1.c
+taskset -c 0 ./a.out
+
+
+/etc/default/grub
